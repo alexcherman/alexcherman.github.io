@@ -12,3 +12,5 @@
 [Практика. Часть 1](https://alexcherman.github.io/practice-part_1/ "Верстка шапки") - Верстка шапки
 
 [Практика. Часть 2](https://alexcherman.github.io/practice-part_2/ "Верстка первого экрана") - Верстка первого экрана
+
+[Практика. Часть 3](https://alexcherman.github.io/practice-part_3/ "Адаптивная верстка") - Адаптивная верстка
