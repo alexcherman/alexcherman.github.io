@@ -1,0 +1,31 @@
+.modal-dialog {
+  width: 450px;
+}
+.modal-header {
+  background-color: #372a36;
+}
+.close {
+  color: #ffffff;
+}
+.close:hover {
+  color: #aaaaaa;
+}
+.modal-footer {
+  text-align: left;
+}
+.btn-yes {
+  background-color: #6fa454;
+  color: #ffffff;
+  border: none;
+}
+.btn-yes:hover {
+  background-color: green;
+  color: #ffffff;
+}
+.btn-no {
+  background-color: #d05454;
+  border: none;
+}
+.btn-no:hover {
+  background-color: #bd3a3a;
+}
