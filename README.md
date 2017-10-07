@@ -22,3 +22,5 @@
 [Практика. Часть 3](https://alexcherman.github.io/practice-part_3/ "Адаптивная верстка") - Адаптивная верстка
 
 [Практика. Часть 4](https://alexcherman.github.io/practice-part_4/ "Слайдер") - Слайдер
+
+[Практика. Часть 5](https://alexcherman.github.io/practice-part_5/ "Модальное окно") - Модальное окно
