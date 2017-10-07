@@ -9,6 +9,8 @@
 
 [Урок 14](https://alexcherman.github.io/lesson_14/ "Шрифты") - Шрифты
 
+[Урок 15](https://alexcherman.github.io/lesson_15/ "Псевдоэлементы") - Псевдоэлементы
+
 [Урок 16](https://alexcherman.github.io/lesson_16/ "Слайдер") - Слайдер
 
 [Урок 17](https://alexcherman.github.io/lesson_17/ "Popup") - Popup
