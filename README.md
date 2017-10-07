@@ -11,6 +11,8 @@
 
 [Урок 16](https://alexcherman.github.io/lesson_16/ "Слайдер") - Слайдер
 
+[Урок 17](https://alexcherman.github.io/lesson_17/ "Popup") - Popup
+
 [Практика. Часть 1](https://alexcherman.github.io/practice-part_1/ "Верстка шапки") - Верстка шапки
 
 [Практика. Часть 2](https://alexcherman.github.io/practice-part_2/ "Верстка первого экрана") - Верстка первого экрана
