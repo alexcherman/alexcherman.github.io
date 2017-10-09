@@ -15,7 +15,9 @@
 
 [Урок 17](https://alexcherman.github.io/lesson_17/ "Popup") - Popup
 
-[Урок 18](https://alexcherman.github.io/lesson_18/ "Табы") - Табы
+[Урок 18](https://alexcherman.github.io/lesson_18/ "Аккордеон") - Аккордеон
+
+[Урок 18](https://alexcherman.github.io/lesson_18_1/ "Табы") - Табы
 
 [Практика. Часть 1](https://alexcherman.github.io/practice-part_1/ "Верстка шапки") - Верстка шапки
 
