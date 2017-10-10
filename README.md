@@ -19,6 +19,8 @@
 
 [Урок 18](https://alexcherman.github.io/lesson_18_1/ "Табы") - Табы
 
+[Урок 19](https://alexcherman.github.io/lesson_9/ "Анимация") - Анимация
+
 [Практика. Часть 1](https://alexcherman.github.io/practice-part_1/ "Верстка шапки") - Верстка шапки
 
 [Практика. Часть 2](https://alexcherman.github.io/practice-part_2/ "Верстка первого экрана") - Верстка первого экрана
