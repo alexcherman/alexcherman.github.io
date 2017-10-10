@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+ 	<meta charset="utf-8">
+ 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+ 	<meta name="viewport" content="width=device-width, initial-scale=1">
+ 	<link rel="icon" href="/favicon.ico">
+ 	<title>Tabs</title>
+	<link rel="stylesheet" href="css/animate.css">
+ 	<link href="css/bootstrap.css" rel="stylesheet">
+ 	<link href="css/style.css" rel="stylesheet">
+</head>
+<body>
+	<div class="main">
+		<div class="container">
+			<div class="animated bounceInUp" data-wow-delay="0.2s">
+
+			  <!-- Nav tabs -->
+			  <ul class="nav nav-tabs" role="tablist">
+			    <li role="presentation" class="active"><a href="#home" class="home" aria-controls="home" role="tab" data-toggle="tab">Вход</a></li>
+			    <li role="presentation"><a href="#profile" class="registration" aria-controls="profile" role="tab" data-toggle="tab">Регистрация</a></li>
+			  </ul>
+
+			  <!-- Tab panes -->
+			  <div class="tab-content">
+			    <div role="tabpanel" class="tab-pane active" id="home">
+			    	<form action="#" class="form">
+			    		<input class="form-input wow fadeIn" data-wow-delay="0.4s" type="text" placeholder="Ваше имя">
+			    		<input class="form-input wow fadeIn" data-wow-delay="0.4s" type="text" placeholder="Пароль">
+			    		<a href="" class="form-link wow fadeIn" data-wow-delay="0.6s">Забыли пароль?</a>
+			    		<label><input id="form-checkbox wow fadeIn" data-wow-delay="0.8s" type="checkbox"> Напомнить позже</label>
+			    		<button class="form-btn wow bounceInRight" data-wow-delay="0.8s">Войти</button>
+			    	</form>
+			    </div>
+			    <div role="tabpanel" class="tab-pane" id="profile"><p class="animated fadeIn">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio doloribus facilis esse laborum illo placeat tempora dolorum mollitia quia id aliquid nam unde sunt, assumenda minus quae, vitae dolorem ad.</p></div>	
+			  </div>
+
+			</div>			
+		</div>
+	</div>
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script>
+    	new WOW().init();
+    </script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="http://getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>
