@@ -32,3 +32,5 @@
 [Практика. Часть 5](https://alexcherman.github.io/practice-part_5/ "Модальное окно") - Модальное окно
 
 [Практика. Часть 6](https://alexcherman.github.io/practice-part_6/ "Блок с ценами") - Блок с ценами
+
+[Практика. Часть 7](https://alexcherman.github.io/practice-part_7/ "Слайдер с отзывами") - Слайдер с отзывами
