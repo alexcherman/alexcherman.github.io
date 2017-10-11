@@ -373,10 +373,12 @@ header {
   background-size: cover;
 }
 .feedback-prev-btn {
-  left: -3.6rem;
+  left: -5rem;
+  padding: 0;
 }
 .feedback-next-btn {
-  right: -5.5rem;
+  right: -5rem;
+  padding: 0;
 }
 .feedback-text {
   position: relative;
@@ -417,9 +419,7 @@ header {
 .feedback-slider-btn {
   position: absolute;
   top: 50%;
-  transform: translateX(-50%);
-  width: 4rem;
-  height: 5rem;
+  transform: translateY(-50%);
   border: none;
   background: none;
 }
