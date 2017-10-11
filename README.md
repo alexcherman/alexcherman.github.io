@@ -19,7 +19,9 @@
 
 [Урок 18](https://alexcherman.github.io/lesson_18_1/ "Табы") - Табы
 
-[Урок 19](https://alexcherman.github.io/lesson_9/ "Анимация") - Анимация
+[Урок 19](https://alexcherman.github.io/lesson_19/ "Анимация") - Анимация
+
+[Урок 20](https://alexcherman.github.io/lesson_20/ "Видеофон") - Видеофон
 
 [Практика. Часть 1](https://alexcherman.github.io/practice-part_1/ "Верстка шапки") - Верстка шапки
 
