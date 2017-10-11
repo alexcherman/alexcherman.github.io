@@ -36,3 +36,6 @@
 [Практика. Часть 6](https://alexcherman.github.io/practice-part_6/ "Блок с ценами") - Блок с ценами
 
 [Практика. Часть 7](https://alexcherman.github.io/practice-part_7/ "Слайдер с отзывами") - Слайдер с отзывами
+
+[Практика. Часть 8](https://alexcherman.github.io/practice-part_8/ "Адаптив") - Адаптив
+
