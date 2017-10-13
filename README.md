@@ -23,6 +23,8 @@
 
 [Урок 20](https://alexcherman.github.io/lesson_20/ "Видеофон") - Видеофон
 
+[Урок 21](https://alexcherman.github.io/lesson_21/ "Parallax") - Parallax
+
 [Практика. Часть 1](https://alexcherman.github.io/practice-part_1/ "Верстка шапки") - Верстка шапки
 
 [Практика. Часть 2](https://alexcherman.github.io/practice-part_2/ "Верстка первого экрана") - Верстка первого экрана
