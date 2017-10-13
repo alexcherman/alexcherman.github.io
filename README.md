@@ -41,6 +41,6 @@
 
 [Практика. Часть 8](https://alexcherman.github.io/practice-part_8/ "Адаптив") - Адаптив
 
-[Практика. Часть 9](https://alexcherman.github.io/practice-part_9/ "Блок "схема работы"") - Блок "схема работы"
+[Практика. Часть 9](https://alexcherman.github.io/practice-part_9/ "Блок "схема работы") - Блок "схема работы"
 
 
