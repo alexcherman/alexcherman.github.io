@@ -43,4 +43,7 @@
 
 [Практика. Часть 9](https://alexcherman.github.io/practice-part_9/ "Блок схема работы") - Блок "схема работы"
 
+[Практика. Часть 10](https://alexcherman.github.io/practice-part_10/ "Сомнения и их решения") - Блок "Сомнения и их решения"
+
+
 
