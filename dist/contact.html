@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Contact us Page</title>
+  <link rel="stylesheet" href="css/easy-responsive-tabs.css">
+  <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body>
+  <header class="header contact__header">
+    <img class="subpage-img-left" src="./img/layout/subpage-bg-left.svg" alt="">
+    <img class="subpage-img-center" src="./img/layout/subpage-bg-center.svg" alt="">
+    <img class="subpage-img-mobile" src="./img/layout/subpage-bg-mobile.svg" hidden alt="">
+    <div class="container">
+      <div class="menu page-menu">
+        <div class="row menu__row">
+          <div class="logo header-logo">
+            <a href="index.html">
+              <img class="logo__img" src="./img/logo@1x.png" srcset="./img/logo@2x.png" alt="Logo">
+            </a>
+          </div>
+          <nav class="nav">
+            <div class="nav__header">
+              <p class="nav__title">MENU</p>
+              <img class="close-btn mobile-menu-toggle" src="./img/header/close-btn.svg" alt="Close button" role="button">
+            </div>
+            <ul class="nav__list">
+              <li class="nav__list-item">
+                <a class="nav__link" href="resource.html">RESOURCE CENTER</a>
+              </li>
+              <li class="nav__list-item">
+                <a class="nav__link" href="contact.html">CONTACT US</a>
+              </li>
+              <li class="nav__list-item">
+                <a class="nav__link" href="about.html">ABOUT US</a>
+              </li>
+              <li class="nav__list-item">
+                <a class="nav__link" href="wallets.html">WALLETS</a>
+              </li>
+              <li class="nav__list-item">
+                <a class="nav__link" href="news.html">NEWS</a>
+              </li>
+              <li class="nav__list-item">
+                <a class="nav__link" href="buy.html">BUY AND SELL</a>
+              </li>
+              <li class="nav__list-item">
+                <a class="nav__link" href="faq.html">FAQ</a>
+              </li>
+            </ul>
+          </nav>
+          <img class="mobile-menu-toggle open-btn is-visible" hidden src="./img/header/menu.svg" alt="Mobile menu button" role="button">
+        </div>
+      </div>
+      <h1 class="page-title contact__page-title">Contact us Page</h1>
+      <p class="page-subtitle contact__page-subtitle">Please feel free to choose from any of the below options and we will get back to you as soon as possible.</p>
+
+    </div>
+  </header>
+  <main class="main">
+    <section class="contact-section">
+      <div class="container">
+        <!--Horizontal Tab-->
+        <div id="parentHorizontalTab">
+          <div class="tab__bar contact-form__tab-bar">
+            <ul class="resp-tabs-list hor_1">
+              <li class="tab__list-item">
+                <img class="tab__icon" src="./img/contact/general.svg" alt="">
+                <p class="tab__title">GENERAL ENQUIRIES</p>
+              </li>
+              <li class="tab__list-item">
+                <img class="tab__icon" src="./img/contact/business.svg" alt="">
+                <p class="tab__title">BUSINESS ENQUIRIES</p>
+              </li>
+              <li class="tab__list-item">
+                  <img class="tab__icon" src="./img/contact/media.svg" alt="">
+                <p class="tab__title">MEDIA ENQUIRIES</p>
+              </li>
+            </ul>
+            <div class="tab__border">
+              <div class="lavalamp"></div>
+            </div>
+          </div>
+          <div class="resp-tabs-container hor_1">
+            <div>
+              
+              <form action="vendor/generalmail.php" method="POST" class="contact-form general-form">
+                <label class="contact-form__label" for="name-input">Name</label>
+                <input class="contact-form__input contact-form__name general-input-name" name="general_name" type="text" required>
+                <label class="contact-form__label" for="surname-input">Surname</label>
+                <input class="contact-form__input contact-form__surname general-input-surname" name="general_surname" type="text" required>
+                <label class="contact-form__label" for="email-input">Email</label>
+                <input class="contact-form__input contact-form__email general-input-email" name="general_mail" type="email" required>
+                <label class="contact-form__label" for="message-input">Message</label>
+                <textarea class="contact-form__message" name="general_message" rows="1"></textarea>
+                <button class="form__btn contact-form__btn general-btn" type="submit">Send</button>
+              </form>
+              
+            </div>
+            <div>
+              
+              <form action="vendor/businessmail.php" class="contact-form business-form">
+                <label class="contact-form__label" for="name-input">Name</label>
+                <input class="contact-form__input contact-form__name business-input-name" name="business_name" id="name-input" type="text" required>
+                <label class="contact-form__label" for="surname-input">Surname</label>
+                <input class="contact-form__input contact-form__surname business-input-surname" name="business_surname" id="surname-input" type="text" required>
+                <label class="contact-form__label" for="email-input">Email</label>
+                <input class="contact-form__input contact-form__email business-input-email" name="business_mail" id="email-input" type="email" required>
+                <label class="contact-form__label" for="message-input">Message</label>
+                <textarea class="contact-form__message" name="business_message" id="message-input" rows="1"></textarea>
+                <button class="form__btn contact-form__btn business-btn">Send</button>
+              </form>
+              
+            </div>
+            <div>
+              
+              <form action="vendor/mediamail.php" class="contact-form media-form">
+                <label class="contact-form__label" for="name-input">Name</label>
+                <input class="contact-form__input contact-form__name media-input-name" name="media_name" id="name-input" type="text" required>
+                <label class="contact-form__label" for="surname-input">Surname</label>
+                <input class="contact-form__input contact-form__surname media-input-surname" name="media_surname" id="surname-input" type="text" required>
+                <label class="contact-form__label" for="email-input">Email</label>
+                <input class="contact-form__input contact-form__email media-input-email" name="media_mail" id="email-input" type="email" required>
+                <label class="contact-form__label" for="message-input">Message</label>
+                <textarea class="contact-form__message" name="media_message" id="message-input" rows="1"></textarea>
+                <button class="form__btn contact-form__btn media-btn">Send</button>
+              </form>
+              
+            </div>
+          </div>
+        </div>
+
+        <div class="thanks-modal">
+          <img src="./img/contact/close.svg" alt="Close" class="thanks-modal__close">
+          <img src="./img/contact/thank-you.svg" alt="Thank you" class="thanks-modal__icon">
+          <p class="thanks-modal__header">Thank you!</p>
+          <p class="thanks-modal__text">For Contacting <br> Commodity Price Coin!</p>
+        </div>
+        
+      </div>
+      
+    </section>
+    <section class="subscribe">
+      <img class="subcribe__img subcribe__img-left" src="./img/subscribe/left.svg" alt="">
+      <img class="subcribe__img subcribe__img-right" src="./img/subscribe/right.svg" alt="">
+      <div class="container">
+        <form action="" class="form subscribe__form">
+          <label class="form__label subscribe__label" for="subscribe-input">Subscribe for more information</label>
+          <input class="form__input" id="subscribe-input" type="text" placeholder="Email" required>
+          <button class="form__btn">Subscribe</button>
+        </form>
+      </div>
+    </section>
+  </main>
+  <footer class="footer">
+    <div class="container">
+      <div class="row footer__row">
+        <div class="footer__block">
+          <div class="logo footer-logo">
+            <img src="./img/logo@1x.png" srcset="./img/logo@2x.png" alt="Logo" class="logo__img">
+          </div>
+          <p class="footer__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pretium pretium tempor. Ut eget imperdiet neque. In
+            volutpat ante semper diam.</p>
+        </div>
+        <div class="footer__block">
+          <div class="social">
+            <div class="row">
+              <a href="" class="social__link">
+                <img src="./img/footer/facebook-icon.svg" alt="Facebook link" class="social__img">
+              </a>
+              <a href="" class="social__link">
+                <img src="./img/footer/twitter-icon.svg" alt="Twitter link" class="social__img">
+              </a>
+              <a href="" class="social__link">
+                <img src="./img/footer/google-icon.svg" alt="Google link" class="social__img">
+              </a>
+              <a href="" class="social__link">
+                <img src="./img/footer/facebook-icon.svg" alt="Facebook link" class="social__img">
+              </a>
+              <a href="" class="social__link">
+                <img src="./img/footer/twitter-icon.svg" alt="Twitter link" class="social__img">
+              </a>
+              <a href="" class="social__link">
+                <img src="./img/footer/google-icon.svg" alt="Google link" class="social__img">
+              </a>
+            </div>
+          </div>
+          <a href="mailto:conctact@commodity.com" class="email-link">conctact@commodity.com</a>
+        </div>
+      </div>
+      <div class="copy">
+        <p class="copy__text">&copy; 2017 Copyrigts, All right reserved</p>
+        <a href="disclaimer.html" class="copy__link">Disclaimer</a>
+      </div>
+    </div>
+
+  </footer>
+
+  <script src="./js/jquery-1.9.1.min.js"></script>
+  <script src="./js/mail.js"></script>
+  <script src="./js/easyResponsiveTabs.js"></script>
+  <script src="./js/easyResponsiveTabs-init.js"></script>
+  <script src="js/main.js"></script>
+  <script src="./js/lavalamp-animation.js"></script>
+</body>
+
+</html>

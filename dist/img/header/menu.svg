@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="12px" viewBox="0 0 19 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>menu</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="COMMODITY-MOBILE" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-286.000000, -24.000000)">
+        <g id="//TOP" transform="translate(-3.000000, 0.000000)" fill="#404D69" fill-rule="nonzero">
+            <g id="menu" transform="translate(289.000000, 24.000000)">
+                <path d="M18.2325039,5 L0.767496094,5 C0.343632812,5 0,5.44768398 0,6 C0,6.55231602 0.343632812,7 0.767496094,7 L18.2325039,7 C18.6564043,7 19,6.55231602 19,6 C19,5.44773233 18.6564043,5 18.2325039,5 Z" id="Shape"></path>
+                <path d="M18.2325039,0 L0.767496094,0 C0.343632812,0 0,0.447732328 0,1 C0,1.55226767 0.343632812,2 0.767496094,2 L18.2325039,2 C18.6564043,2 19,1.55226767 19,1 C19,0.447732328 18.6564043,0 18.2325039,0 Z" id="Shape"></path>
+                <path d="M18.2325039,10 L0.767496094,10 C0.343632812,10 0,10.447684 0,11 C0,11.552316 0.343632812,12 0.767496094,12 L18.2325039,12 C18.6564043,12 19,11.552316 19,11 C19,10.447684 18.6564043,10 18.2325039,10 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

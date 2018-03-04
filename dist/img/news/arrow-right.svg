@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="6px" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ion-ios-arrow-thin-right - Ionicons</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="COMMODITY/News-centre/WEB" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-950.000000, -952.000000)">
+        <g id="NEWS" transform="translate(135.000000, 480.000000)" fill="#5AADAA">
+            <g id="news2" transform="translate(540.000000, 265.000000)">
+                <g id="Group-8" transform="translate(30.000000, 89.000000)">
+                    <g id="Group-20" transform="translate(170.000000, 106.000000)">
+                        <path d="M81.6599736,17.6285622 C81.5420973,17.510686 81.5420973,17.3928115 81.6599736,17.2749353 L83.6343905,15.094236 L75.2357513,15.094236 C75.078583,15.094236 75,15.015653 75,14.8584847 C75,14.7013164 75.078583,14.6227334 75.2357513,14.6227334 L83.6343905,14.6227334 L81.6599736,12.4420341 C81.5420973,12.3241579 81.5420973,12.2062834 81.6599736,12.0884072 C81.7778498,11.9705309 81.8957243,11.9705309 82.0136005,12.0884072 C83.5656375,13.7976125 84.3514672,14.6620252 84.3711133,14.6816712 C84.4104053,14.7209633 84.4300511,14.7799005 84.4300511,14.8584847 C84.4300511,14.9370688 84.4104053,14.9960061 84.3711133,15.0352981 L82.0136005,17.6285622 C81.9743084,17.6678543 81.9153712,17.6875 81.836787,17.6875 C81.7582029,17.6875 81.6992657,17.6678543 81.6599736,17.6285622 Z" id="ion-ios-arrow-thin-right---Ionicons"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
